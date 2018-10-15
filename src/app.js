@@ -1,0 +1,1 @@
+store = {taskListers: [], tasks: [], lists: []}
